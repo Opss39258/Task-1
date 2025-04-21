@@ -1,4 +1,4 @@
-# Marketing Campaign Data Cleaning
+# Customer Personality Analysis
 
 ## Objective
 To clean the `marketing_campaign.csv` dataset by addressing the following:
